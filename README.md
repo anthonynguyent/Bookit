@@ -10,12 +10,18 @@ This is a simple Book Management System that allows users to perform CRUD (Creat
 -   Provides options to switch between table and card view.
 -   Allows users to navigate to create a new book.
 
+   ![home page](https://github.com/anthonynguyent/bookit/assets/54492419/096747cb-7e9d-40a3-a6b3-edafc8e61f6b)
+
+
 ### 2. Create Book
 
 -   Allows users to add a new book to the collection.
 -   Validates and prompts the user for required fields (title, author, publish year).
 -   Displays a loading spinner during the data submission process.
 -   Provides user feedback using snackbar notifications.
+
+   ![create book](https://github.com/anthonynguyent/bookit/assets/54492419/367e9e6e-c89d-4009-9795-031d7bd1febc)
+
 
 ### 3. Show Book Details
 
@@ -35,6 +41,9 @@ This is a simple Book Management System that allows users to perform CRUD (Creat
 -   Displays a confirmation message before deletion.
 -   Displays a loading spinner during the data submission process.
 -   Provides user feedback using snackbar notifications.
+
+   ![show book details, edit book, delete book](https://github.com/anthonynguyent/bookit/assets/54492419/08a143c2-9637-4460-87db-31cdb3665533)
+
 
 ## Technologies Used
 
